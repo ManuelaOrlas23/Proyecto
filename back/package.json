@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "json-server": "^1.0.0-alpha.23"
+  },
+  "name": "back",
+  "version": "1.0.0",
+  "description": "\"Back de json server para ser consumido en React\"",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "json":"json-server --port 5174"
+  },
+  "author": "Manuela Orlas",
+  "license": "ISC"
+}
